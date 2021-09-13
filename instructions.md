@@ -2,6 +2,7 @@
 Get started with ${app}
 -----------------------------------
 Welcome to your new Go app!
+this
 
 Go description
 
